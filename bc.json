@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://ae30b3c1-c20d-491c-926b-f58f026cbbbc.ws-us02.gitpod.io",
+    "address": "https://c19d95c6-220b-46ac-8138-1d288558dc2e.ws-us02.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -39,6 +39,7 @@
         {
             "slug": "01-hello-world",
             "title": "01-hello-world",
+            "done": true,
             "path": "exercises/01-hello-world",
             "translations": [
                 "es",
@@ -59,6 +60,7 @@
         {
             "slug": "03-Change-Div-Background",
             "title": "03-Change-Div-Background",
+            "done": true,
             "path": "exercises/03-Change-Div-Background",
             "translations": [
                 "es",
@@ -69,6 +71,7 @@
         {
             "slug": "04-Move-DOM-Element",
             "title": "04-Move-DOM-Element",
+            "done": true,
             "path": "exercises/04-Move-DOM-Element",
             "translations": [
                 "es",
@@ -99,6 +102,7 @@
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
+            "done": true,
             "path": "exercises/07-Create-DOM-list-of-li",
             "translations": [
                 "es",
